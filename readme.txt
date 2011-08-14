@@ -13,11 +13,13 @@ Xcode uses on your system, and run it from the command line with:
 
 ./BlockFun.app
 
---
 
+
+
+---------------------------------------------------------------------
 This project was developed as sample code for the iOS Developer Study
 Group that meets at the Hacker Dojo in Mountain View, CA.
 
 It is provided under the terms of the Apache license.
-
+---------------------------------------------------------------------
 
